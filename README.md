@@ -1,6 +1,4 @@
 # Llibrary-management-system
-
-
 ## Overview
 
 The Library Management System is a web application built using the MERN stack (MongoDB, Express, React, Node.js) to manage library resources efficiently. This application allows users to manage books, members, and transactions like borrowing and returning books.
